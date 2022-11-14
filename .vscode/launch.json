@@ -12,6 +12,7 @@
             "mode": "debug",
             "program": "Learning",
             "args": [""]
+            "console": "externalTerminal" //linea de codigo para ingresar datos en consola
          },
     ]
 
