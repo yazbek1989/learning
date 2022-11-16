@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Testsumdiv() {
+func testsumdiv() {
 	var a int
 	var b int
 	fmt.Println("ingrese el primer valor: ")
@@ -23,7 +23,7 @@ func dividir(a, b int) (coc int, res int) {
 	return coc, res
 }
 
-func Testtaxes() {
+func testtaxes() {
 	var a float64
 	fmt.Println("ingrese el valor de compra del producto: ")
 	fmt.Scan(&a)

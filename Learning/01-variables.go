@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func Variables() {
+func variables() {
 	fmt.Println("LLenar despues")
 }

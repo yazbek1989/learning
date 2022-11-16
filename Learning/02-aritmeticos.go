@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Aritmeticos() {
+func aritmeticos() {
 	a := 21
 	b := 10
 

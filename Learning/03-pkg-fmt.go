@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func Format() {
+func formato() {
 	hola := "Hola"
 	mundo := "Mundo"
 	fmt.Println(hola, ", ", mundo)
