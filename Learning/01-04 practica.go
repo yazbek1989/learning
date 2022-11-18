@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//suma y division
 func testsumdiv() {
 	var a int
 	var b int
