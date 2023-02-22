@@ -9,7 +9,7 @@ func logicos2() {
 	//and (tienen que ser ambos true para devolver true)
 	fmt.Println(false && true)
 
-	//or || cualquiera que de true devuelve verdadero
+	//or (cualquiera que de true devuelve verdadero)
 	fmt.Println(true || false)
 
 	b := 2
